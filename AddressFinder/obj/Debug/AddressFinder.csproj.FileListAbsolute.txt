@@ -9,6 +9,14 @@ c:\users\rash\documents\visual studio 2013\Projects\AddressFinder\AddressFinder\
 c:\users\rash\documents\visual studio 2013\Projects\AddressFinder\AddressFinder\obj\Debug\AddressFinder.exe
 c:\users\rash\documents\visual studio 2013\Projects\AddressFinder\AddressFinder\obj\Debug\AddressFinder.pdb
 c:\users\rash\documents\visual studio 2013\Projects\AddressFinder\AddressFinder\obj\Debug\AddressFinder.Form1.resources
+E:\Work\AddressFinder\AddressFinder\bin\Debug\AddressFinder.exe
+E:\Work\AddressFinder\AddressFinder\bin\Debug\Newtonsoft.Json.dll
 E:\Work\AddressFinder\AddressFinder\bin\Debug\AddressFinder.exe.config
+E:\Work\AddressFinder\AddressFinder\bin\Debug\Newtonsoft.Json.xml
+E:\Work\AddressFinder\AddressFinder\obj\Debug\AddressFinder.AddressInfo.resources
+E:\Work\AddressFinder\AddressFinder\obj\Debug\AddressFinder.NearbyLocations.resources
+E:\Work\AddressFinder\AddressFinder\obj\Debug\AddressFinder.Properties.Resources.resources
+E:\Work\AddressFinder\AddressFinder\obj\Debug\AddressFinder.csproj.GenerateResource.Cache
 E:\Work\AddressFinder\AddressFinder\obj\Debug\AddressFinder.exe
 E:\Work\AddressFinder\AddressFinder\obj\Debug\AddressFinder.pdb
+E:\Work\AddressFinder\AddressFinder\bin\Debug\AddressFinder.pdb
